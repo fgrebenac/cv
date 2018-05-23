@@ -1,4 +1,4 @@
-# cv
+# Curriculum vitae
 
 Filip Grebenac
 
