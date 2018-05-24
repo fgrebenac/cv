@@ -2,4 +2,4 @@
 
 Filip Grebenac
 
-mail : #TODO
+mail : filip.grebenac@fer.hr
